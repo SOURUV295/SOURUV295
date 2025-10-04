@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 
- <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
  👤 Name: SOURUV<br> 💼 Role: Cyber Security Specialist<br> 🛡 Skills: Ethical Hacking, Penetration Testing, Bug Bounty Hunting, Network Security<br> 🌐 Focus Areas: Web Applications, Infrastructure Security, Vulnerability Research<br> 🔥 Passion: Discovering vulnerabilities, improving system defenses, exploring innovative security solutions<br> 📚 Motto: Always curious, always learning, always solving security challenges
 
