@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <h1 align="center">Hi 👋, I'm MD SOURUV</h1>
 <h3 align="center">🔐⚡Ethical Hacking, Penetration Testing, Bug Bounty Hunting, Network Security 🛡️💻</h3>
 
@@ -6,7 +9,12 @@
 </p>
 
 # 💫 About Me:
+
+ <img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+
  👤 Name: SOURUV<br> 💼 Role: Cyber Security Specialist<br> 🛡 Skills: Ethical Hacking, Penetration Testing, Bug Bounty Hunting, Network Security<br> 🌐 Focus Areas: Web Applications, Infrastructure Security, Vulnerability Research<br> 🔥 Passion: Discovering vulnerabilities, improving system defenses, exploring innovative security solutions<br> 📚 Motto: Always curious, always learning, always solving security challenges
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MDSOURUV295) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdsurov295) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zshackerpro@gmail.com) 
